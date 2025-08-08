@@ -1,2 +1,15 @@
-# Chat-Room-Application
-A dynamic, data-driven e-commerce dashboard with visualized KPIs including revenue, profit trends, and category performance. Features time-series analysis and filterable visual insights to aid business decision-making.
+# 💬 Chat Room Application (Terminal Based)
+
+A real-time multi-client chat room application using Python's socket and threading libraries.
+
+### 🔧 Features
+- Terminal-based real-time communication
+- Server-client architecture
+- Handles multiple users with broadcast functionality
+- Thread-based handling for Windows compatibility
+
+### 🛠 Technologies Used
+- Python
+- Socket Programming
+- Multithreading
+.
